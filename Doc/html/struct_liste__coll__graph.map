@@ -1,0 +1,4 @@
+<map id="Liste" name="Liste">
+<area shape="rect" id="node1" title="Sert à accéder au permier élément de la pile." alt="" coords="29,95,82,121"/>
+<area shape="rect" id="node2" href="$struct_mouvement.html" title="Pile qui stocke tous les mouvements du manutentionnaire." alt="" coords="5,5,105,32"/>
+</map>
